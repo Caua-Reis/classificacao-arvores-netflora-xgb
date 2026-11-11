@@ -134,8 +134,8 @@ Inferência em larga escala (mapa .tif)
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/SEU_USUARIO/monjolo-classificacao-especies.git
-cd monjolo-classificacao-especies
+git clone https://github.com/SEU_USUARIO/classificacao-arvores-netflora-xgb.git
+cd classificacao-arvores-netflora-xgb
 ```
 
 ### 2. Criar ambiente virtual
