@@ -4,7 +4,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-O projeto está vinculado ao plano de trabalho **PID4022-2025**, "*Identificação de Copas de Árvores com Imagens de drones e Inteligência Artificial*" de Iniciação Científica da Universidade Federal da Integração Latino-Americana (UNILA), com bolsa de iniciação científica financiada pela Fundação Araucária. Esse trabalho aplica a **metodologia Netflora** (Embrapa) adaptada com **XGBoost** para classificação automática de espécies arbóreas em área urbana, usando ortomosaico RGB de drone e dados dendrométricos de campo.
+O projeto está vinculado ao plano de trabalho **PID4022-2025**, "*Identificação de Copas de Árvores com Imagens de drones e Inteligência Artificial*" da Universidade Federal da Integração Latino-Americana (UNILA), com bolsa de iniciação científica financiada pela Fundação Araucária. Esse trabalho aplica a **metodologia Netflora** (Embrapa) adaptada com **XGBoost** para classificação automática de espécies arbóreas em área urbana, usando ortomosaico RGB de drone e dados dendrométricos de campo.
 
 > **Local de estudo:** Casa Harry Schinke (Foz do Iguaçu – PR)  
 > **Espécies classificadas:** 20  
