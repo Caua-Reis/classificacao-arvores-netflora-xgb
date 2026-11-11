@@ -21,7 +21,7 @@ O projeto está vinculado ao plano de trabalho **PID4022-2025**, "*Identificaç�
 - [Limitações](#-limitações)
 - [Trabalhos Futuros](#-trabalhos-futuros)
 - [Referências](#-referências)
-- [Autor](#-autor)
+- [Créditos](#-créditos)
 
 ---
 
