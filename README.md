@@ -201,7 +201,7 @@ Os resultados serão salvos em `resultados_RGB/`.
 
 ---
 
-## 👤 Autor
+## 👤 Créditos
 
 **Cauã Maurici Reis** 
 Estudante de Geografia Bacharelado – Unila 
