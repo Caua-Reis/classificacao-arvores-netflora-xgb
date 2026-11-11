@@ -1,0 +1,25 @@
+# --- Dados e geoprocessamento ---
+numpy>=1.24
+pandas>=2.0
+geopandas>=0.14
+rasterio>=1.3
+
+# --- Machine Learning ---
+scikit-learn>=1.3
+xgboost>=2.0
+
+# --- Deep Learning ---
+torch>=2.0
+torchvision>=0.15
+
+# --- Processamento de imagem ---
+Pillow>=10.0
+scikit-image>=0.21
+
+# --- Visualização ---
+matplotlib>=3.7
+seaborn>=0.13
+
+# --- Utilidades ---
+joblib>=1.3
+openpyxl>=3.1
