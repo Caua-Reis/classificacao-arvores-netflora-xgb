@@ -207,6 +207,7 @@ Os resultados serão salvos em `resultados_RGB/`.
 Estudante de Geografia Bacharelado – Unila 
 🔗 [LinkedIn](https://www.linkedin.com/in/cau%C3%A3-maurici-reis-503b1b370/)
 
-**Orientação:** Diego Moraes Flores **Orientador**
-Noé Villegas Flores **Coorientador**
+**Orientação:** 
+- Diego Moraes Flores **Orientador**
+- Noé Villegas Flores **Coorientador**
 
