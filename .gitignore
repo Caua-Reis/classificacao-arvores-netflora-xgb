@@ -1,0 +1,29 @@
+# === Dados grandes / sensíveis ===
+*.tif
+*.tiff
+*.gpkg
+*.shp
+*.shx
+*.dbf
+*.xlsx
+*.xls
+
+# Patches e ortomosaicos
+patches/
+resultados_RGB/
+*.joblib
+
+# === Ambientes Python ===
+venv/
+env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# === Sistema ===
+.DS_Store
+Thumbs.db
+
+# === IDE ===
+.vscode/
+.idea/
