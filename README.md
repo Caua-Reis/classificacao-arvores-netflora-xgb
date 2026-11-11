@@ -103,7 +103,7 @@ Inferência em larga escala (mapa .tif)
 2. **Textura GLCM** (energy)
 3. **Tonalidade HSV** (p50)
 
-📄 Relatório completo: [`docs/relatorio_final.pdf`](docs/relatorio_final.pdf)
+📄 Relatório completo: [`docs/Relatório IC.pdf`](docs/Relatório IC.pdf)
 
 ---
 
